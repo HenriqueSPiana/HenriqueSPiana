@@ -39,4 +39,5 @@ Here are the technologies I'm proficient in or am currently learning:
 
 I'm currently tracking my progress on roadmap.sh.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/656a7b185145316d25a4a8ae?variant=dark&roadmaps=%2Cspring-boot%2Cjava)](https://roadmap.sh)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/656a7b185145316d25a4a8ae?variant=dark&roadmaps=)](https://roadmap.sh)
